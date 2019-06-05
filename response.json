@@ -1,0 +1,28 @@
+{
+  "status": "ok",
+  "data": {
+    "rows": [
+      {
+        "id": 111233,
+        "site": "example1",
+        "item_id": "123",
+        "link": "example.com/items.php?id=4",
+        "title": "item label",
+        "price": 485000,
+        "size": 300,
+        "pricePerUnit": "1616.67",
+      },
+      {
+        "id": 111234,
+        "site": "example2",
+        "item_id": "124",
+        "link": "example.com/items.php?id=4",
+        "title": "item label",
+        "price": 178500,
+        "size": 110,
+        "pricePerUnit": "1622.73"
+      }
+    ],
+    "count": 2
+  }
+}
